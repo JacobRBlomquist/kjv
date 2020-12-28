@@ -1,13 +1,14 @@
-# kjv
+# WoG (Word of God)
 
 Read the Word of God from your terminal
 
-Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kjv.git) but with the Apocrypha added.
+Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kjv.git) but with the Apocrypha, Book of Mormon, Pearl of Great Price, and
+'Doctrine & Covenants' added.
 
 
 ## Usage
 
-    usage: ./kjv [flags] [reference...]
+    usage: ./wog [flags] [reference...]
 
       -l      list books
       -W      no line wrap
@@ -36,10 +37,10 @@ Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kj
 
 ## Build
 
-kjv can be built by cloning the repository and then running make:
+WoG can be built by cloning the repository and then running make:
 
-    git clone https://github.com/lukesmithxyz/kjv.git
-    cd kjv
+    git clone https://github.com/JacobRBlomquist/WoG.git
+    cd WoG
     sudo make install
 
 ## License
