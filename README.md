@@ -2,7 +2,7 @@
 
 Read the Word of God from your terminal
 
-Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kjv.git) but with the Apocrypha, Book of Mormon, Pearl of Great Price, and
+Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kjv.git) but with the "Apocrypha", "Book of Mormon", "Pearl of Great Price", and
 'Doctrine & Covenants' added.
 
 
@@ -34,6 +34,19 @@ Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kj
               All verses in a book that match a pattern
           <Book>:<Chapter>/<Search>
               All verses in a chapter of a book that match a pattern
+## Example
+```sh
+./wog Ether:12:27
+```
+
+```
+Ether 
+12:27   And if men come unto me I will show unto them their weakness. I give
+        unto men weakness that they may be humble; and my grace is sufficient
+        for all men that humble themselves before me; for if they humble
+        themselves before me, and have faith in me, then will I make weak things
+        become strong unto them.
+```
 
 ## Build
 
